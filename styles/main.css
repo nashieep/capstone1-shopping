@@ -4,3 +4,11 @@
 .btn-primary{
     background-color: #f48a08;
 }
+.card {
+    box-shadow: 0 84px;
+    height: 100%;
+    }
+    .container {
+    padding: 2px 16px;
+    }
+    
