@@ -1,21 +1,60 @@
+
+body{
+    background-color: blanchedalmond;
+}
+.container-fluid{
+    align-items: center;
+}
+ img{
+     max-width: 100%;
+   border-image-outset: 2;
+       height: 100%;
+       object-fit: cover;
+       background: linear-gradient(to right, transparent, mistyrose);
+    }
+ h1{
+     text-align: center;
+     font: italic 1.2rem "Fira Sans", serif;
+     font-weight: bolder;
+    font-size: xx-large; 
+    }
+  
+h2{
+    font-size: 20px;
+}
+
+.card{
+    width: 100%;
+    display: inline-flex;
+}
 .modal-content{
     background-color: #b86b0e;
 }
 .btn-primary{
     background-color: #ced3bd;
+    
 }
-
- .img{
-        border: 1px solid black;
-        float:left;
-    }
- h1{
-     text-align: center;
-    }
-h2{
-    font-size: 20px;
+.modal-footer {
+   border-color: #b86b0e;
+}
+.bttn1{
+    border: 2px solid #d39b0c; 
+    background-color: darkkhaki;
+}
+.bttn1:hover{
+    color: #b86b0e;
+}
+.bttn2{
+    border: 2px solid #d39b0c; 
+    background-color: darkkhaki;
 }
 .card{
-    width: 100%;
-    display: inline-flex;
+    display: grid;
+   height: 100%;
+   box-shadow: 0 0 5px 0 rgba(22, 22, 26, .25);
+}
+button{
+    position: absolute;
+right:    0;
+bottom:   0;
 }
