@@ -21,6 +21,7 @@ body{
   
 h2{
     font-size: 20px;
+    margin-top: 60px;
 }
 
 .card{
@@ -52,6 +53,9 @@ h2{
     display: grid;
    height: 100%;
    box-shadow: 0 0 5px 0 rgba(22, 22, 26, .25);
+}
+.row {
+    --bs-gutter-y: 1.5rem;
 }
 button{
     position: absolute;
