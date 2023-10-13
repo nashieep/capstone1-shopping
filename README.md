@@ -1,2 +1,2 @@
 # capstone1-shopping
-[[/images/path/to/Kiskeyagallegy.PNG"|adding images]]
+[[https://github.com/nashieep/capstone1-shopping/blob/main/images/Kiskeyagallegy.jpg]]
